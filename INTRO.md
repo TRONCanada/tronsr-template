@@ -1,1 +1,1 @@
-A short introduction about your team
+Welcome to TRON CANADA, an TRON Super Representative candidate with a experienced technical team and influential community members located in Vancouver, Canada. Vancouver has been an early pioneer of the crypto economy, and its tech-savvy and crypto-friendly community, coupled with Canada’s stable economy make Vancouver an ideal location for blockchain development and adoption.
