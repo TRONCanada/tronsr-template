@@ -8,7 +8,7 @@ Chris Shao is the founder of Grand Capital Investment INC. He invested in over 2
 Ehsan (community leader)
 Ehsan speaks fluent English and German. His skills include Community engagement and communication, whitepaper translation/editing and public speaking. And some of his interests are: the philosophy of blockchain, human civilization, quantum mechanics, game theory and the science of human interactions. Carrying full of confusion and skepticism, he joined the blockchain and cryptocurrencies sphere in December 2017, and since then he had been mind-blown away by this new technological movement and how it could change our world for the better. And also, he is a proud TRX hodler.
 
-Wang Yu (Marketing Leader)
+## Wang Yu (Marketing Leader)
 
 Wang Yu (Marketing Leader)
 Graduated from City university of New York. Baruch College, BA political Science and Economics. Decentralized autonomous organizations(DAO) believer, 6 years Media industry experiences. Specialized in VR AR, Fintech, blockchain, IOT, Stock market, reporting.
