@@ -12,11 +12,11 @@
 
 ## STRX系统
 
-* STRX是TRON CANADA推出的建立在TRON公链上的代币，TRON Canada团队会在STRX平台开发自己的DAPP，根据投票记录空头给每一位投票人，50%出块奖励会按比例分红给各投票人。
+* STRX是TRON CANADA推出的建立在TRON公链上的社区平台，TRONCanada团队会在STRX平台开发自己的DAPP，根据投票记录空投给每一位投票人，50%出块奖励会按比例分红给各投票人。
 
-* 根据大量调研准备，STRX年回报率超过100%，持有STRX会享有多有STRX平台种子轮投资权，按月获得TRX分红回报
+* 根据大量调研准备，STRX年回报率超过100%。持有STRX会享有所有基于STRX平台优质项目的种子轮投资权，并且会按月获得TRX分红回报。
 
-* 无论以哪种方式支持TRON CANADA， 您都会按比例得到STRX空投，例如给TRON CANADA投10000trx票，就能获得等额10000STRX代币，当选超级节点后，TRON CANADA基金会将会按比例分红TRX出块奖励给所有持有STRX的社区成员。
+* 无论以哪种方式支持TRONCanada，您都会按比例得到STRX空投，例如给TRON CANADA投10000trx票，就能获得等额10000STRX代币。TRONCanada当选超级节点后，TRON CANADA基金会将会按比例分红TRX出块奖励给所有持有STRX的社区成员。
 
 ## TRON Canada Community Plan：
 
